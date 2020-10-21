@@ -1,0 +1,20 @@
+{
+  "name": "cypress-ts",
+  "version": "1.0.0",
+  "description": "cypress typescript example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^14.11.8",
+    "cypress": "^5.4.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  }
+}
